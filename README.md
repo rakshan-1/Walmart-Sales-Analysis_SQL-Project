@@ -13,7 +13,7 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 
 ## Analysis List
 
-### 1. Product Analysis
+#### 1. Product Analysis
 Analyze the data to understand the different product lines, the product lines performing best, and the product lines that need to be improved.
 
 ### 2. Sales Analysis
