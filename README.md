@@ -21,3 +21,20 @@ This analysis aims to answer the question of the sales trends of products. The r
 
 ### 3. Customer Analysis
 This analysis aims to uncover the different customer segments, purchase trends, and the profitability of each customer segment.
+
+
+## Approach Used
+
+### 1. Data Wrangling
+This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
+
+
+### 2. Feature Engineering
+This will help generate some new columns from existing ones.
+
+
+### 3. Exploratory Data Analysis (EDA)
+Exploratory data analysis is done to answer the questions and aims of this project.
+
+
+
